@@ -26,3 +26,16 @@ We rely on [sails](http://sailsjs.org) for the backend and [angular](http://angu
 ## License
 
 This is project is under the [MIT](https://github.com/netantho/cloudifier/blob/master/LICENSE) license.
+
+
+
+Cloudifier
+建立覆盖状态状态性状态依赖状态
+
+Cloudifier提供了一个Web界面来帮助你管理你的云托管（目前只有AWS）。我们依靠帆的后端和角度的前端。
+
+安装
+
+安装的node.js和MongoDB的
+与故宫的JavaScript安装安装依赖
+创建您的AWS密钥的配置/ aws.json文件
